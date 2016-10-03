@@ -1,4 +1,3 @@
-
 library(RMySQL)
 library(shiny)
 library(quantmod)
@@ -8,6 +7,7 @@ library(bdscale)
 library(scales)
 library(ggplot2)
 library(rvest)
+library(XML)
 
 #Define UI
 ui <- shinyUI(fluidPage(
