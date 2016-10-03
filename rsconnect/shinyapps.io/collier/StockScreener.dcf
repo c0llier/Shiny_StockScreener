@@ -1,0 +1,10 @@
+name: StockScreener
+account: collier
+server: shinyapps.io
+appId: 129137
+bundleId: 574660
+url: https://collier.shinyapps.io/StockScreener/
+when: 1475461927.99518
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_new.R
